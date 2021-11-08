@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harikesh Subramanain
 - 👀 I’m interested in Anesthesiology
 - 🌱 I’m currently learning Informatics
-- 💞️ I’m looking to collaborate on anythign really 
+- 💞️ I’m looking to collaborate on anything really 
 - 📫 How to reach me has201@pitt.edu
 
 <!---
